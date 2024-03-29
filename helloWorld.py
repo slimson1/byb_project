@@ -1,3 +1,3 @@
 #  Program that prints "Hello, world!"
 
-print('Hello, world!')
+print('Git is awosome!')
